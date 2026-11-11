@@ -1,3 +1,11 @@
+commit 980741133cf096046a45177f714ee1dd2b236fe2
+Author: Pinche Gato <204642129+pinche-gato@users.noreply.github.com>
+Date:   Wed Nov 11 14:23:48 2026 -0500
+
+    NOTES ADDED ON HOW TO PROPERLY WRITE A GIT COMMIT
+    
+    Notes were pulled from two sources: cbea.ms/git-commit and Who-T on Commit Messages (Peter Hutterer)
+
 commit 54f39440a09c8e6cd9eaa67c966ea16bcff11140
 Author: Pinche Gato <204642129+pinche-gato@users.noreply.github.com>
 Date:   Wed Nov 11 11:54:14 2026 -0500

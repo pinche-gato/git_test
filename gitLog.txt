@@ -1,0 +1,51 @@
+commit 54f39440a09c8e6cd9eaa67c966ea16bcff11140
+Author: Pinche Gato <204642129+pinche-gato@users.noreply.github.com>
+Date:   Wed Nov 11 11:54:14 2026 -0500
+
+    added h2 and ul tags to explain commits.
+    
+    understanding good commits will help with version control.
+
+commit 94108e007d254f35d5ba876ab1aa5467ae830c97
+Author: Pinche Gato <204642129+pinche-gato@users.noreply.github.com>
+Date:   Wed Nov 11 11:43:51 2026 -0500
+
+    added boiler plate and <p> tags to the text.
+    
+    this allows proper html syntax for users.
+
+commit 23eed411a433c86b058c053967b28c4c84fb33c0
+Author: Pinche Gato <204642129+pinche-gato@users.noreply.github.com>
+Date:   Wed Nov 11 11:32:53 2026 -0500
+
+    Updated hello_world.txt to .html and created index.html
+
+commit fee33d172d3a303ab0b9aabbad5fcb784dd8fe36
+Author: Pinche Gato <204642129+pinche-gato@users.noreply.github.com>
+Date:   Wed Nov 11 02:14:34 2026 -0500
+
+    update to hello_world.txt
+
+commit bd5cbcbda38d12801f91dfc53ac4eae16d8a22cf
+Author: Pinche Gato <204642129+pinche-gato@users.noreply.github.com>
+Date:   Wed Nov 11 02:09:08 2026 -0500
+
+    update to hello_world.txt
+
+commit 6608ac1cfe3476dc85190786d2838c0021edf66d
+Author: Pinche Gato <204642129+pinche-gato@users.noreply.github.com>
+Date:   Wed Nov 11 01:56:05 2026 -0500
+
+    Edit README.md and hello_world.txt
+
+commit e4afb1332cfa5879cfbff0ee0bbd89ad07e098ac
+Author: Pinche Gato <204642129+pinche-gato@users.noreply.github.com>
+Date:   Wed Nov 11 01:49:45 2026 -0500
+
+    Add hello_world.txt
+
+commit e571f6ef2e91ad6af6dbc31280c6eb3a1a497f78
+Author: pinche-gato <204642129+pinche-gato@users.noreply.github.com>
+Date:   Wed Nov 11 01:43:00 2026 -0500
+
+    Initial commit

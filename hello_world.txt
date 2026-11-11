@@ -1,1 +1,2 @@
 Hello, I am Pinche Gato!
+I am learning Git.
